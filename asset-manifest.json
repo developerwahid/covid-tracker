@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/covid-tracker/static/css/main.8df0446c.css",
+    "main.js": "/covid-tracker/static/js/main.dac9a739.js",
+    "static/js/787.293850c5.chunk.js": "/covid-tracker/static/js/787.293850c5.chunk.js",
+    "static/media/india.png": "/covid-tracker/static/media/india.96e714e5695609aae57a.png",
+    "index.html": "/covid-tracker/index.html",
+    "main.8df0446c.css.map": "/covid-tracker/static/css/main.8df0446c.css.map",
+    "main.dac9a739.js.map": "/covid-tracker/static/js/main.dac9a739.js.map",
+    "787.293850c5.chunk.js.map": "/covid-tracker/static/js/787.293850c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8df0446c.css",
+    "static/js/main.dac9a739.js"
+  ]
+}
